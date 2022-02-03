@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "Meower Launcher App",
   "main": "index.js",
+  "author": "Meower Media Co.",
   "dependencies": {
     "electron-squirrel-startup": "^1.0.0"
   },
