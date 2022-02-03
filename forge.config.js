@@ -24,7 +24,7 @@ module.exports = {
       config: {
         repository: {
           owner: 'meower-media-co',
-          name: 'meower-desktop',
+          name: 'meower-launcher',
         },
       },
     },
