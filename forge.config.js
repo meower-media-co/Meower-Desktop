@@ -18,15 +18,4 @@ module.exports = {
       name: '@electron-forge/maker-zip',
     },
   ],
-  publishers: [
-    {
-      name: '@electron-forge/publisher-github',
-      config: {
-        repository: {
-          owner: 'meower-media-co',
-          name: 'meower-launcher',
-        },
-      },
-    },
-  ],
 };
