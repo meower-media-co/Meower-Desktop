@@ -3,6 +3,6 @@ The Meower Launcher
 
 Credits:
 
-Bloctans_4: Design
+Bloctans_4: Orginal Launcher
 
-William: Packaging
+William: Packaging and responitivity porting
