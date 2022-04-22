@@ -19,7 +19,6 @@ npm run make
 ```
 It'll now make a `.AppImage`, a universal package type for all Linux distros. Now, all you need to do now is to wait for it to `make`!
 
-
 Now, a `.AppImage` will show up in `out/make/`. `cd` to that location and run `dir` to find the `.AppImage`. Once found, run:
 ```
 chmod a+x ./meower-<latest-version>.AppImage
