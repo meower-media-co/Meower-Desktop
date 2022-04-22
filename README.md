@@ -23,7 +23,7 @@ Now, a `.AppImage` will show up in `out/make/`. `cd` to that location and run `d
 ```
 chmod a+x ./meower-<latest-version>.AppImage
 ```
-Or:
+Or, if you aren't in the directory:
 ```
 chmod a+x ./out/make/meower-<latest-version>.AppImage
 ```
@@ -31,8 +31,8 @@ Now run the `.AppImage` by using the following command:
 ```
 ./meower-<latest-version>.AppImage
 ```
-Or:
+Or, if you're still not in the directory:
 ```
 ./out/make/meower-<latest-version>.AppImage
 ```
-Congradulations! You just built and ran Meower Desktop! Or you can get a pre-built `.AppImage` by looking at the "Releases" section.
+Congradulations! You just built and ran Meower Desktop! Or you can get a pre-built `.AppImage` by looking at the "Releases" section, because building is a pain, and it's recommended to get a `.AppImage` from the releases section.
