@@ -17,22 +17,22 @@ Finally, to the buliding part, run:
 ```
 npm run make
 ```
-It'll now make a `.AppImage`, a universal package type for all Linux distros. Now, all you need to do now is to wait for it to `make`!
+It'll now make a executable file taliored to your system for you. Now, all you need to do now is to wait for it to `make`!
 
-Now, a `.AppImage` will show up in `out/make/`. `cd` to that location and run `dir` to find the `.AppImage`. Once found, run:
+Now, a executable file for your system will show up in `out/make/`. `cd` to that location and run `dir` to find the executable for the system you're using. Once found, run:
 ```
-chmod a+x ./meower-<latest-version>.AppImage
+chmod a+x ./meower-<latest-version>.<executable-name>
 ```
 Or, if you aren't in the directory:
 ```
-chmod a+x ./out/make/meower-<latest-version>.AppImage
+chmod a+x ./out/make/meower-<latest-version>.<executable-name>
 ```
-Now run the `.AppImage` by using the following command:
+Now run the executable by using the following command:
 ```
-./meower-<latest-version>.AppImage
+./meower-<latest-version>.<executable-name>
 ```
 Or, if you're still not in the directory:
 ```
-./out/make/meower-<latest-version>.AppImage
+./out/make/meower-<latest-version>.<executable-name>
 ```
-Congradulations! You just built and ran Meower Desktop! Or you can get a pre-built `.AppImage` by looking at the "Releases" section, because building is a pain, and it's recommended to get a `.AppImage` from the releases section.
+Congradulations! You just built and ran Meower Desktop! Or you can get a pre-built executable by looking at the "Releases" section, because building is a pain, and it's recommended to get a executable from the releases section.
