@@ -1,7 +1,7 @@
 {
   "name": "meower",
   "version": "0.0.3",
-  "description": "Meower Launcher App",
+  "description": "The official Meower launcher app",
   "main": "index.js",
   "author": "Meower Media Co.",
   "dependencies": {
