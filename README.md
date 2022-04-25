@@ -9,7 +9,7 @@ Then, download the source with git, or click on the green "Code" button, then cl
 ```
 npm init
 ```
-To initialize the folder. Install all dependencies, like `electron` by using:
+...To initialize the folder. Install all dependencies, like `electron` by using:
 ```
 npm install
 ```
