@@ -1,7 +1,7 @@
 module.exports = {
   packagerConfig: {
     icon: './app/Images/Meower',
-    name: 'meower',
+    name: 'Meower',
     executableName: 'meower',
   },
   makers: [
