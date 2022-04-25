@@ -17,7 +17,7 @@ Finally, to the buliding part, run:
 ```
 npm run make
 ```
-It'll now make a executable file taliored to your system for you. Now, all you need to do now is to wait for it to `make`!
+It'll now make a executable file taliored to your system for you. Now, all you need to do now is to wait for it to `make`! The rest will be for UNIX systems.
 
 Now, a executable file for your system will show up in `out/make/`. `cd` to that location and run `dir` to find the executable for the system you're using. Once found, run:
 ```
