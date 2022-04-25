@@ -1,6 +1,12 @@
 const { app, BrowserWindow } = require('electron');
 
-if (require('electron-squirrel-startup')) return app.quit();
+check();
+
+function check() {
+  if (require('electron-squirrel-startup')) {
+    return app.quit();
+  }
+}
 
 const createWindow = () => {
   const win = new BrowserWindow({
