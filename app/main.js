@@ -1,6 +1,6 @@
 function delay(time) {
   return new Promise((resolve) => setTimeout(resolve, time));
-  //Make sure to put the function as "async runction"
+  //Make sure to put the function as "async function"
 }
 
 function playaudio() {
